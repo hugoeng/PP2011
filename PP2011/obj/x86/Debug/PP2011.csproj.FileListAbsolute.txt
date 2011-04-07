@@ -9,3 +9,9 @@ C:\Users\hugo\projects\csharp\PP2011\bin\Debug\nunit.core.dll
 C:\Users\hugo\projects\csharp\PP2011\bin\Debug\NUnit.Framework.dll
 C:\Users\hugo\projects\csharp\PP2011\bin\Debug\nunit.core.interfaces.dll
 C:\Users\hugo\projects\csharp\PP2011\obj\x86\Debug\PP2011.EnterSentenceForm.resources
+C:\Users\hugo\projects\git_pp2011_rep\PP2011\obj\x86\Debug\PP2011.exe
+C:\Users\hugo\projects\git_pp2011_rep\PP2011\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hugo\projects\git_pp2011_rep\PP2011\obj\x86\Debug\PP2011.EnterSentenceForm.resources
+C:\Users\hugo\projects\git_pp2011_rep\PP2011\obj\x86\Debug\PP2011.MainForm.resources
+C:\Users\hugo\projects\git_pp2011_rep\PP2011\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\hugo\projects\git_pp2011_rep\PP2011\obj\x86\Debug\ResGen.write.1.tlog
